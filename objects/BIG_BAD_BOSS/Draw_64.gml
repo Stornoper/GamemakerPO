@@ -1,0 +1,1 @@
+draw_healthbar(360, 30, 600, 55, ((current_health/max_health)*100), c_black, c_red, c_green, 0, true, true)
