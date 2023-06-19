@@ -12,6 +12,7 @@
     {"name":"inst_759DADC5","path":"rooms/mainMenu/mainMenu.yy",},
     {"name":"inst_594C01CD","path":"rooms/mainMenu/mainMenu.yy",},
     {"name":"inst_7ABADF88","path":"rooms/mainMenu/mainMenu.yy",},
+    {"name":"inst_56966AD2","path":"rooms/mainMenu/mainMenu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,6 +22,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_759DADC5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_quit_mainmenu","path":"objects/obj_quit_mainmenu/obj_quit_mainmenu.yy",},"properties":[],"rotation":0.0,"scaleX":3.3750002,"scaleY":1.25,"x":152.0,"y":344.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_594C01CD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"properties":[],"rotation":0.0,"scaleX":3.4375002,"scaleY":1.1875,"x":152.07498,"y":84.10363,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7ABADF88","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controlls","path":"objects/obj_controlls/obj_controlls.yy",},"properties":[],"rotation":0.0,"scaleX":1.9999999,"scaleY":2.0000002,"x":256.00784,"y":256.00003,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_56966AD2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":524.0,"y":284.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
